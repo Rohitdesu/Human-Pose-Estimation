@@ -31,7 +31,7 @@ pip install opencv-python tensorflow streamlit pillow numpy
  - stand.jpg: Demo image 
  - graph_opt.pb: The TensorFlow model used for human pose detection.
 
-##How to Use
+## How to Use
  - Streamlit Web Application
  - Clone or download the repository to your local machine.
  - Navigate to the project directory in your terminal.
@@ -55,7 +55,7 @@ The model uses a TensorFlow-based pre-trained neural network to detect human pos
 The detected parts are connected by lines to form a skeleton representing the pose.
 
 
-##Acknowledgments
+## Acknowledgments
 OpenCV for the dnn module and pre-trained models.
 TensorFlow for deep learning capabilities.
 Streamlit for building the interactive web app.
